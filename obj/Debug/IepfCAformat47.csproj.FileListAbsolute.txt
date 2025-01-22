@@ -1,0 +1,14 @@
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.csproj.AssemblyReference.cache
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat46.iepfcacdsl47.resources
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.csproj.GenerateResource.cache
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.csproj.CoreCompileInputs.cache
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\bin\Debug\IepfCAformat47.exe.config
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\bin\Debug\IepfCAformat47.exe.manifest
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\bin\Debug\IepfCAformat47.application
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\bin\Debug\IepfCAformat47.exe
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\bin\Debug\IepfCAformat47.pdb
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.Properties.Resources.resources
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.exe.manifest
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.application
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.exe
+D:\vccipl_projects\Deployment_Projects\IepfCAformat47\obj\Debug\IepfCAformat47.pdb
